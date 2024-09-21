@@ -1,0 +1,122 @@
+type,date,species,Long term change  percentage change,Long term Annual percentage change,Trend,date,Short term percentage change,Annual percentage change,Trend
+Farmland Generalists (7),1970 - 2014,Greenfinch (Chloris chloris),-36,-1.01,no change,2009 - 2014,-37,-8.83,strong decline
+Farmland Generalists (7),1970 - 2014,Jackdaw (Corvus monedula),137,1.98,weak increase,2009 - 2014,17,3.16,strong increase
+Farmland Generalists (7),1970 - 2014,Kestrel (Falco tinnunculus),-31,-0.84,no change,2009 - 2014,-14,-3.07,strong decline
+Farmland Generalists (7),1970 - 2014,Reed Bunting (Emberiza schoeniclus),-30,-0.82,no change,2009 - 2014,8,1.46,weak increase
+Farmland Generalists (7),1970 - 2014,Rook (Corvus frugilegus),18,0.43,no change,2009 - 2014,-5,-1.1,no change
+Farmland Generalists (7),1970 - 2014,Woodpigeon (Columba palumbus),138,1.99,weak increase,2009 - 2014,-4,-0.71,no change
+Farmland Generalists (7),1970 - 2014,Yellow Wagtail (Motacilla flava),-66,-2.41,weak decline,2009 - 2014,24,4.44,strong increase
+Farmland Generalists (7),1970 - 2014,Corn Bunting (Emberiza calandra),-89,-4.95,strong decline,2009 - 2014,-5,-1,no change
+Farmland Specialists (12),1970 - 2014,Goldfinch (Carduelis carduelis),136,1.97,weak increase,2009 - 2014,26,4.74,strong increase
+Farmland Specialists (12),1970 - 2014,Grey Partridge (Perdix perdix),-91,-5.42,strong decline,2009 - 2014,-15,-3.3,strong decline
+Farmland Specialists (12),1970 - 2014,Lapwing (Vanellus vanellus),-50,-1.58,weak decline,2009 - 2014,-20,-4.34,strong decline
+Farmland Specialists (12),1970 - 2014,Linnet (Carduelis cannabina),-63,-2.26,weak decline,2009 - 2014,13,2.52,weak increase
+Farmland Specialists (12),1970 - 2014,Skylark (Alauda arvensis),-61,-2.1,weak decline,2009 - 2014,-3,-0.51,no change
+Farmland Specialists (12),1970 - 2014,Starling (Sturnus vulgaris),-87,-4.59,strong decline,2009 - 2014,-18,-3.97,strong decline
+Farmland Specialists (12),1970 - 2014,Stock Dove (Columba oenas),104,1.64,weak increase,2009 - 2014,21,3.92,strong increase
+Farmland Specialists (12),1970 - 2014,Tree Sparrow (Passer montanus),-95,-6.59,strong decline,2009 - 2014,18,3.36,strong increase
+Farmland Specialists (12),1970 - 2014,Turtle Dove (Streptopelia turtur),-97,-8.01,strong decline,2009 - 2014,-70,-21.45,strong decline
+Farmland Specialists (12),1970 - 2014,Whitethroat (Sylvia communis),-4,-0.09,no change,2009 - 2014,7,1.38,weak increase
+Farmland Specialists (12),1970 - 2014,Yellowhammer (Emberiza citrinella),-61,-2.13,weak decline,2009 - 2014,-4,-0.88,no change
+Woodland Generalists (12),1970 - 2014,Blackbird (Turdus merula),-19,-0.49,no change,2009 - 2014,-4,-0.75,no change
+Woodland Generalists (12),1970 - 2014,Blue Tit (Cyanistes caeruleus),19,0.4,no change,2009 - 2014,-2,-0.49,no change
+Woodland Generalists (12),1970 - 2014,Bullfinch (Pyrrhula pyrrhula),-45,-1.36,weak decline,2009 - 2014,8,1.55,weak increase
+Woodland Generalists (12),1970 - 2014,Chaffinch (Fringilla coelebs),26,0.52,no change,2009 - 2014,-10,-2.09,weak decline
+Woodland Generalists (12),1970 - 2014,Dunnock (Prunella modularis),-35,-0.96,no change,2009 - 2014,-1,-0.1,no change
+Woodland Generalists (12),1970 - 2014,Great Tit (Parus major),67,1.17,weak increase,2009 - 2014,-8,-1.56,weak decline
+Woodland Generalists (12),1970 - 2014,Lesser Whitethroat (Sylvia curruca),12,0.27,no change,2009 - 2014,2,0.37,no change
+Woodland Generalists (12),1970 - 2014,Long-tailed Tit (Aegithalos caudatus),60,1.07,no change,2009 - 2014,-10,-2.05,weak decline
+Woodland Generalists (12),1970 - 2014,Robin (Erithacus rubecula),57,1.03,no change,2009 - 2014,-1,-0.13,no change
+Woodland Generalists (12),1970 - 2014,Song Thrush (Turdus philomelos),-55,-1.79,weak decline,2009 - 2014,-6,-1.17,weak decline
+Woodland Generalists (12),1970 - 2014,Tawny Owl (Strix aluco),-31,-0.83,no change,2009 - 2014,-5,-1.03,no change
+Woodland Generalists (12),1970 - 2014,Wren (Troglodytes troglodytes),49,0.91,no change,2009 - 2014,9,1.83,weak increase
+Woodland Specialists (22),1970 - 2014,Blackcap (Sylvia atricapilla),251,2.89,strong increase,2009 - 2014,34,5.99,strong increase
+Woodland Specialists (22),1970 - 2014,Chiffchaff (Phylloscopus collybita),94,1.52,weak increase,2009 - 2014,22,4.02,strong increase
+Woodland Specialists (22),1970 - 2014,Coal Tit (Periparus ater),27,0.55,no change,2009 - 2014,-2,-0.46,no change
+Woodland Specialists (22),1970 - 2014,Garden Warbler (Sylvia borin),-18,-0.46,no change,2009 - 2014,-13,-2.68,weak decline
+Woodland Specialists (22),1970 - 2014,Goldcrest (Regulus regulus),-21,-0.54,no change,2009 - 2014,12,2.33,weak increase
+Woodland Specialists (22),1970 - 2014,Great Spotted Woodpecker (Dendrocopos major),323,3.33,strong increase,2009 - 2014,-5,-0.95,no change
+Woodland Specialists (22),1970 - 2014,Green Woodpecker (Picus viridis),136,1.97,weak increase,2009 - 2014,-7,-1.52,weak decline
+Woodland Specialists (22),1970 - 2014,Jay (Garrulus glandarius),2,0.04,no change,2009 - 2014,4,0.86,no change
+Woodland Specialists (22),1970 - 2014,Lesser Spotted Woodpecker (Dendrocopos minor),-83,-3.98,strong decline,2009 - 2014,-48,-12.34,strong decline
+Woodland Specialists (22),1970 - 2014,Marsh Tit (Poecile palustris),-72,-2.82,strong decline,2009 - 2014,-11,-2.2,weak decline
+Woodland Specialists (22),1970 - 2014,Nightingale (Luscinia megarhynchos),(1995-2014) -39,-2.57,weak decline,2009 - 2014,26,4.76,strong increase
+Woodland Specialists (22),1970 - 2014,Nuthatch (Sitta europaea),248,2.88,strong increase,2009 - 2014,12,2.29,weak increase
+Woodland Specialists (22),1970 - 2014,Lesser Redpoll (Carduelis cabaret),-94,-6.13,strong decline,2009 - 2014,28,5.07,strong increase
+Woodland Specialists (22),1970 - 2014,Redstart (Phoenicurus phoenicurus),68,1.18,weak increase,2009 - 2014,42,7.3,strong increase
+Woodland Specialists (22),1970 - 2014,Sparrowhawk (Accipiter nisus),164,2.23,weak increase,2009 - 2014,-10,-2.15,weak decline
+Woodland Specialists (22),1970 - 2014,Spotted Flycatcher (Muscicapa striata),-91,-5.38,strong decline,2009 - 2014,-17,-3.71,strong decline
+Woodland Specialists (22),1970 - 2014,Wood Warbler (Phylloscopus sibilatrix),(1995-2014) -77,-7.45,strong decline,2009 - 2014,-43,-10.76,strong decline
+Woodland Specialists (22),1970 - 2014,Siskin (Carduelis spinus),(1995-2014) 62,2.58,weak increase,2009 - 2014,11,2.12,weak increase
+Woodland Specialists (22),1970 - 2014,Tree Pipit (Anthus trivialis),-87,-4.49,strong decline,2009 - 2014,1,0.13,no change
+Woodland Specialists (22),1970 - 2014,Treecreeper (Certhia familiaris),-20,-0.49,no change,2009 - 2014,13,2.43,weak increase
+Woodland Specialists (22),1970 - 2014,Willow Tit (Poecile montana),-93,-5.86,strong decline,2009 - 2014,-12,-2.52,weak decline
+Woodland Specialists (22),1970 - 2014,Willow Warbler (Phylloscopus trochilus),-65,-2.34,weak decline,2009 - 2014,-13,-2.85,strong decline
+Water and wetland Birds of fast flowing water (4),1975 - 2014,Common Sandpiper (Actitis hypoleucos),-33,-1.01,no change,2009 - 2014,4,0.8,no change
+Water and wetland Birds of fast flowing water (4),1975 - 2014,Dipper (Cinclus cinclus),-8,-0.22,no change,2009 - 2014,13,2.49,weak increase
+Water and wetland Birds of fast flowing water (4),1975 - 2014,Goosander (Mergus merganser),(1981-2015) 98,2.09,weak increase,2009 - 2014,20,3.69,strong increase
+Water and wetland Birds of fast flowing water (4),1975 - 2014,Grey Wagtail (Motacilla cinerea),-40,-1.32,weak decline,2009 - 2014,-14,-3,strong decline
+Water and wetland Reedbed Birds (4),1975 - 2014,Cetti's Warbler (Cettia cetti),(1989-2015) 498,7.42,strong increase,2009 - 2014,10,1.91,weak increase
+Water and wetland Reedbed Birds (4),1975 - 2014,Reed Bunting (Emberiza schoeniclus),-52,-1.89,weak decline,2009 - 2014,-10,-2.14,weak decline
+Water and wetland Reedbed Birds (4),1975 - 2014,Reed Warbler (Acrocephalus scirpaceus),(1981-2015) 38,0.99,no change,2009 - 2014,-7,-1.35,weak decline
+Water and wetland Reedbed Birds (4),1975 - 2014,Sedge Warbler (Acrocephalus schoenobaenus),-44,-1.49,weak decline,2009 - 2014,-28,-6.43,strong decline
+Water and wetland Birds of slow and standing water (6),1975 - 2014,Coot (Fulica atra),78,1.49,weak increase,2009 - 2014,-18,-3.91,strong decline
+Water and wetland Birds of slow and standing water (6),1975 - 2014,Great Crested Grebe (Podiceps cristatus),(1995-2015) -22,-1.27,weak decline,2009 - 2014,-10,-1.98,weak decline
+Water and wetland Birds of slow and standing water (6),1975 - 2014,Little Grebe (Tachybaptus ruficollis),-12,-0.33,no change,2009 - 2014,-3,-0.7,no change
+Water and wetland Birds of slow and standing water (6),1975 - 2014,Mallard (Anas platyrhynchos),184,2.71,weak increase,2009 - 2014,-4,-0.71,no change
+Water and wetland Birds of slow and standing water (6),1975 - 2014,Moorhen (Gallinula chloropus),-19,-0.52,no change,2009 - 2014,-17,-3.62,strong decline
+Water and wetland Birds of slow and standing water (6),1975 - 2014,Tufted Duck (Aythya fuligula),120,2.04,weak increase,2009 - 2014,-11,-2.39,weak decline
+Wetland Birds (8),1975 - 2014,Curlew (Numenius arquata),(1980-2015) -18,-0.58,no change,2009 - 2014,-2,-0.36,no change
+Wetland Birds (8),1975 - 2014,Lapwing (Vanellus vanellus),(1980-2015) -2,-0.06,no change,2009 - 2014,-35,-8.28,strong decline
+Wetland Birds (8),1975 - 2014,Little Egret (Egretta garzetta),N/A,N/A,N/A,2009 - 2014,26,4.76,strong increase
+Wetland Birds (8),1975 - 2014,Mute Swan (Cygnus olor),109,1.91,weak increase,2009 - 2014,-2,-0.43,no change
+Wetland Birds (8),1975 - 2014,Redshank (Tringa totanus),-54,-1.95,weak decline,2009 - 2014,-14,-2.92,strong decline
+Wetland Birds (8),1975 - 2014,Snipe (Gallinago gallinago),-73,-3.33,strong decline,2009 - 2014,20,3.72,strong increase
+Wetland Birds (8),1975 - 2014,Teal (Anas crecca),(1995-2015) 192,5.8,strong increase,2009 - 2014,46,7.9,strong increase
+Wetland Birds (8),1975 - 2014,Yellow Wagtail (Motacilla flava),-97,-8.38,strong decline,2009 - 2014,-31,-7.23,strong decline
+Other Species (4),1975 - 2014,Grey Heron (Ardea cinerea),-16,-0.43,no change,2009 - 2014,-16,-3.45,strong decline
+Other Species (4),1975 - 2014,Kingfisher (Alcedo atthis),-19,-0.54,no change,2009 - 2014,-7,-1.47,weak decline
+Other Species (4),1975 - 2014,Oystercatcher (Haematopus ostralegus),166,2.54,weak increase,2009 - 2014,-1,-0.11,no change
+Other Species (4),1975 - 2014,Sand Martin (Riparia riparia),(1978-2014) 1,0.04,no change,2009 - 2014,-9,-1.92,weak decline
+Seabirds (13),1986 - 2014,Black-legged kittiwake (Rissa tridactyla),-37,-1.66,weak decline,2009 - 2014,-1,-0.11,no change
+Seabirds (13),1986 - 2014,common guillemot,158,3.44,strong increase,2009 - 2014,9,1.66,weak increase
+Seabirds (13),1986 - 2014,European shag (Phalacrocorax artistotelis),-28,-1.16,weak decline,2009 - 2014,-7,-1.4,weak decline
+Seabirds (13),1986 - 2014,Great cormorant (Phalacrocorax carbo),29,0.91,no change,2009 - 2014,13,2.51,weak increase
+Seabirds (13),1986 - 2014,Herring Gull (Larus argentatus),-18,-0.7,no change,2009 - 2014,56,9.33,strong increase
+Seabirds (13),1986 - 2014,Northern fulmar (Fulmarus glacialis),-60,-3.21,strong decline,2009 - 2014,-54,-14.54,strong decline
+Seabirds (13),1986 - 2014,Common Tern (Sterna hirundo),-8,-0.31,no change,2009 - 2014,-14,-2.96,strong decline
+Seabirds (13),1986 - 2014,Sandwich Tern (Sterna sandvicensis),-13,-0.51,no change,2009 - 2014,-30,-6.84,strong decline
+Seabirds (13),1986 - 2014,Little Tern (Sternula albifrons),-22,-0.9,no change,2009 - 2014,2,0.34,no change
+Seabirds (13),1986 - 2014,Arctic Tern (Sterna paradisaea),40,1.22,weak increase,2009 - 2014,43,7.42,strong increase
+Seabirds (13),1986 - 2014,Gannet (Morus bassanus),1566,10.57,strong increase,2009 - 2014,53,8.83,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Avocet (Recurvirostra avosetta),(1988-2014) 295,5.43,strong increase,2009 - 2014,3,0.66,no change
+Other species included in the all species indicator (31),1970 -  2013,Bearded Tit (Panurus biarmicus),44,0.83,no change,2009 - 2014,-5,-0.95,no change
+Other species included in the all species indicator (31),1970 -  2013,Black-headed Gull (Chroicocephalus ridibundus),62,1.1,no change,2009 - 2014,8,1.6,weak increase
+Other species included in the all species indicator (31),1970 -  2013,Buzzard (Buteo buteo),916,5.41,strong increase,2009 - 2014,15,2.87,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Carrion Crow (Corvus corone),104,1.63,weak increase,2009 - 2014,5,0.97,no change
+Other species included in the all species indicator (31),1970 -  2013,Cirl Bunting (Emberiza cirlus),(2001-2014) 78,4.52,strong increase,2009 - 2014,21,3.81,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Collared Dove (Streptopelia decaocto),919,5.42,strong increase,2009 - 2014,-16,-3.42,strong decline
+Other species included in the all species indicator (31),1970 -  2013,Cuckoo (Cuculus canorus),-75,-3.07,strong decline,2009 - 2014,-12,-2.55,weak decline
+Other species included in the all species indicator (31),1970 -  2013,Dartford Warbler (Sylvia undata),(1974-2014) 58,1.14,no change,2009 - 2014,-43,-10.6,strong decline
+Other species included in the all species indicator (31),1970 -  2013,Firecrest (Regulus ignicapilla),N/A,N/A,N/A,2009 - 2014,171,22.02,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Hobby (Falco subbuteo),(1995-2014) -6,-0.32,no change,2009 - 2014,-21,-4.55,strong decline
+Other species included in the all species indicator (31),1970 -  2013,House Martin (Delichon urbicum),(1995-2014) -29,-1.77,weak decline,2009 - 2014,-18,-3.78,strong decline
+Other species included in the all species indicator (31),1970 -  2013,House Sparrow (Passer domesticus),-76,-3.18,strong decline,2009 - 2014,1,0.2,no change
+Other species included in the all species indicator (31),1970 -  2013,Magpie (Pica pica),109,1.69,weak increase,2009 - 2014,4,0.7,no change
+Other species included in the all species indicator (31),1970 -  2013,Meadow Pipit (Anthus pratensis),-44,-1.32,weak decline,2009 - 2014,13,2.44,weak increase
+Other species included in the all species indicator (31),1970 -  2013,Mediterranean Gull (Larus melanocephalus),N/A,N/A,N/A,2009 - 2014,19,3.53,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Mistle Thrush (Turdus viscivorus),-62,-2.18,weak decline,2009 - 2014,-15,-3.25,strong decline
+Other species included in the all species indicator (31),1970 -  2013,Pied/White Wagtail (Motacilla alba),25,0.51,no change,2009 - 2014,0,0.09,no change
+Other species included in the all species indicator (31),1970 -  2013,Pochard (Aythya ferina),(1989-2014) 153,3.79,strong increase,2009 - 2014,29,5.23,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Quail (Coturnix coturnix),(1990-2014) -33,-1.67,weak decline,2009 - 2014,-40,-9.63,strong decline
+Other species included in the all species indicator (31),1970 -  2013,Raven (Corvus corax),(1995-2014) 58,2.42,weak increase,2009 - 2014,54,9.08,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Red Grouse (Lagopus lagopus scotica),(1995-2014) 18,0.86,no change,2009 - 2014,34,6.09,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Red Kite (Milvus milvus),N/A,N/A,N/A,2009 - 2014,100,14.88,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Shelduck (Tadorna tadorna),(1995-2014) 24,1.12,no change,2009 - 2014,-3,-0.52,no change
+Other species included in the all species indicator (31),1970 -  2013,Shoveler (Anas clypeata),N/A,N/A,N/A,2009 - 2014,8,1.49,weak increase
+Other species included in the all species indicator (31),1970 -  2013,Stone Curlew (Burhinus oedicnemus),N/A,N/A,N/A,2009 - 2014,14,2.63,weak increase
+Other species included in the all species indicator (31),1970 -  2013,Stonechat (Saxicola rubicola),(1995-2014) 26,1.2,weak increase,2009 - 2014,-27,-5.99,strong decline
+Other species included in the all species indicator (31),1970 -  2013,Swallow (Hirundo rustica),9,0.2,no change,2009 - 2014,-8,-1.74,weak decline
+Other species included in the all species indicator (31),1970 -  2013,Swift (Apus apus),(1995-2014) -46,-3.21,strong decline,2009 - 2014,-21,-4.7,strong decline
+Other species included in the all species indicator (31),1970 -  2013,Whinchat (Saxicola rubetra),(1995-2014) -37,-2.41,weak decline,2009 - 2014,22,4.03,strong increase
+Other species included in the all species indicator (31),1970 -  2013,Woodlark (Lullula arborea),(1980-2014) 250,3.75,strong increase,2009 - 2014,18,3.39,strong increase
